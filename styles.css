@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    font-family: "Lucida Console", Courier, monospace;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: gainsboro;
+  }
+
+h2 {
+    text-align: center;
+    color: rebeccapurple;
+}
+
+thead {
+    background-color: plum;
+}
+
+table{
+    
+    border: 2px solid darkorchid;
+    width: 650px;
+    margin: 0 auto;
+}
+
